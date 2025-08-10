@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FitLifeTracker</string>
+    <string name="welcome_message">Welcome, %1$s!</string>
+    <string name="today_steps">Today\'s Steps:</string>
+    <string name="today_calories">Calories Burned:</string>
+    <string name="today_distance">Distance (km):</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="recognized_speech_format">Recognized: %1$s</string>
+    <string name="speech_error_format">Speech Error: %1$s</string>
+</resources>
